@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wImageWriterGif/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wimagewritergif" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wimagewritergif" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }
