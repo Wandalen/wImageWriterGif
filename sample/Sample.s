@@ -3,5 +3,5 @@ let _ = require( 'wimagewritergif' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
