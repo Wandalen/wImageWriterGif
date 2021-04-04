@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: bd9b6b6e2f893d2641773a27740d7b3d
         size: 4740
-      wImageWriterGif.out.will.yml:
-        hash: 546cc94915afd8f23dcfe5fcfa8e38ef
-        size: 37369
+      wImageWriterGif.out.will.yml: *ref_0
